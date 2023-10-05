@@ -19,3 +19,4 @@ Implement Decision Tree and Random Forest using only NumPy
 # HW4
 Implement Cross-Validation and Grid Search for SVM training using only NumPy
 # Final - Captcha Hacker
+![image](https://github.com/Kun-Yao/PatternRecognition/blob/main/final/dataset.png)
