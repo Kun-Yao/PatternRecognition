@@ -1,5 +1,5 @@
 # PatternRecognition
-Record 3 homeworks and 1 final project of Pattern Recognition.
+Record 4 homeworks and 1 final project of Pattern Recognition.
 
 ## HW1
 Implement linear regression with Gradient Descent
